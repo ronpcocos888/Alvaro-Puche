@@ -1,0 +1,685 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div {
+    display: block;
+}
+div#general {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+div#cabecera1 {
+    width: 100%; 
+    height: 25px;
+    background-color: #000000;
+    overflow: hidden;
+}
+
+div#cabecera2 {
+    width: 100%; 
+    height: 9.25925%;
+    background-color: #585858 ;
+}
+
+div#prueba {
+    width: 37.83%; 
+    height: 100%;
+    background-color: #000000;
+    float: left;
+}
+
+a#contacto {
+    color: white;
+    font-family:Helvetica,Arial,sans-serif;
+    font-size:14px ;
+    line-height:1.8;
+    margin-left: 20%;
+}
+
+div#redes-sociales {
+    width: 27.027%; 
+    height: 25px;
+    background-color:black;
+    
+}
+
+img#iconos{
+    width: 28px;
+    height: 22px;
+    margin-top: 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+div#logo1 {
+    width: 10.81%; 
+    height: 100%;
+    background-color: black;
+    
+}
+
+ 
+.float1 {
+    float: left;
+}
+
+div#cabecera11 {
+    width: 19.27%;
+    height: 100%;
+    margin-left: 67%;
+    background-color: transparent;
+}
+
+img#logo{
+    width: 30px;
+    height: 23px;
+    margin-top: 1px;
+}
+
+div#cabecera21{
+    width: 60%;
+    height: 100px;
+    margin-left: 20%;
+    background-color:#585858  ;
+}
+
+div#curriculum{
+    width: 20%;
+    height: 100px;
+    background-color: transparent;
+    text-align: center;
+}
+
+p#curriculum1 {
+    color: white;
+    font-family:Helvetica,Arial,sans-serif;;
+    font-size:18px ;
+    line-height:1.8;
+    text-align: center;
+    margin: auto;
+    margin-top: 35px;
+    letter-spacing: 3px;
+}
+
+
+img#logo3{
+    width: 100px;
+    height: 100px;
+    margin-top: 1px;
+}
+
+.zoom:hover{
+    transition: transform 0.3s;
+    transform: scale(1.5);
+}
+
+div#bodyG{
+    width: 100%; 
+    height: 2200px;
+    background-color: black;
+    overflow:hidden;
+}
+
+div#body1{
+    width: 60%; 
+    height: 27.272727%;
+    margin-left:20%;
+    background-image:url(fondo.jpg);
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+div#bienvenida {
+    width: 50%; 
+    height: 83.33333333333333333333333%;
+    margin-right:60%;
+    background-color: transparent;
+}
+
+div#bienvenida1 {
+    width: 100%; 
+    height: 250px;
+    margin-right:60%;
+    margin-left: 10%;
+    background-color: transparent;
+}
+
+h1#bienvenida3 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 20%;
+    padding-left: 10%;
+}
+
+div#bienvenida2
+{
+    width: 90%; 
+    height: 250px;
+    margin-right:60%;
+    margin-left: 10%;
+    background-color: transparent;
+}
+
+p#bienvenida4 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    color: white;
+    padding-left: 10%;
+    padding-bottom: 20%
+}
+
+div#body2{
+    width: 100%;
+    height:1000px;
+    background-color: black;
+
+}
+
+div#body21 {
+    width: 50%; 
+    height: 1000px;
+    margin-left:26%;
+    background-color: black;
+    margin:auto;
+    margin-top: 1.0%;
+}
+
+div#body22{
+    width: 80%;
+    height: 200px;
+    background-color: BLACK;
+    Margin-left: 10%;
+}
+
+h1#presentacion{
+
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 10%;
+    text-align: center;
+
+}
+div#conjunto{
+    width: 100%;
+    height: 360px;
+    background-color: black;
+    overflow:hidden;
+}
+div#habilidad{
+    width: 33%;
+    height: 360px;
+    background-color: black;
+    float:left;
+}
+
+img#cinema4d {
+
+    width: 97%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+div#texto{
+
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+div#titulo{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+
+h1#titulo1{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 2%;
+    text-align: center;
+}
+.zoom1:hover{
+    transition: transform 1s;
+    transform: scale(1.1);
+}
+
+div#contacto{
+    width: 60%;
+    height:300px;
+    margin-left: 20%;
+    background-color: black;
+}
+H1#contactod{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 10%;
+    text-align: center;
+}
+div#bodyc{
+    width: 100%; 
+    height: 1200px;
+    background-color: black;
+}
+
+div#bodyc1{
+    width: 60%; 
+    height: 1200px;
+    margin-left:20%;
+    background-color: black;
+}
+div#bodyc2{
+    width: 60%; 
+    height: 200px;
+    margin-left:20%;
+    background-color: black;
+}
+h1#titulocv {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 15%;
+    padding-left: 10%;
+}
+
+div#cvcompleto{
+    width: 100%; 
+    height: 1000px;
+    background-color: black;
+    overflow: hidden;
+
+}
+div#cvizquierdo{
+    width: 40%; 
+    height: 1000px;
+    background-color: black;
+    float:left;
+}
+
+div#cvizquierdo1{
+    width: 100%; 
+    height: 100px;
+    background-color: black;
+    margin-top: 10%;
+    margin-right: 10px;
+    border-bottom: 1px solid white
+}
+h1#cvizquierdo2 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 12px;
+    letter-spacing: 5px;
+    color: white;
+    padding-top: 10%;
+    text-align: center;
+}
+div#cvizquierdo3{
+    width: 100%; 
+    height: 400px;
+    background-color: black;
+    margin-top: 5%;
+    border-left: 1px solid white;
+    border-top:1px solid white;
+}
+
+dl#lista1 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 5%;
+    padding-left: 25%;
+}
+dd{
+    line-height: 50px;
+}
+div#cvizquierdo4{
+width: 100%; 
+height: 100px;
+background-color: black;
+margin-top: 5%;
+border-left: 1px solid white;
+    border-top:1px solid white;
+    border-right:1px solid white;
+}
+div#cvizquierdo5{
+    width: 100%; 
+    height: 180px;
+    background-color:black;
+    border-left: 1px solid white;
+}
+div#cvderecho{
+    width: 60%; 
+    height: 1000px;
+    background-color: black;
+    float:left;
+    
+}
+
+div#cvderecho1{
+    width: 100%; 
+    height: 100px;
+    background-color: black;
+    margin-top: 10%;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+h1#cvderecho2{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 12px;
+    letter-spacing: 5px;
+    color: white;
+    padding-top: 7%;
+    text-align: center;
+
+}
+div#cvderecho3{
+        width: 100%; 
+        height: 200px;
+        background-color: black;
+        border-left: 1px solid white;
+    }
+dl#lista2 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+div#cvderecho4{
+    width: 100%; 
+    height: 100px;
+    background-color: black;
+    border-left: 1px solid white;
+    border-top:1px solid white;
+}
+
+div#cvderecho5{
+    width: 100%; 
+    height: 200px;
+    background-color: black;
+    border-left: 1px solid white;
+}
+p#cvderecho6{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+p#cvderecho7{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 13px;
+    color: white;
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-right: 25%;
+}
+p#cvderecho8{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: white;
+    padding-top: 1%;
+    padding-left: 10%;
+}
+div#bodyt{
+    width: 60%; 
+    height: 600px;
+    margin-left:20%;
+    background-repeat: no-repeat;
+    background-color: black;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+}
+iframe#youtube1{
+    width: 1141px; 
+    height: 600px;
+    background-repeat: no-repeat;
+}
+iframe#youtube2{
+    width: 1141px; 
+    height: 600px;
+    background-repeat: no-repeat;
+}
+div#bodyt1{
+    width:60%;
+    height:100px;
+    background-color: black;
+    margin-left:20%;
+    border-bottom: 1px solid white
+}
+
+h1#borrasca{
+font-family: Helvetica,Arial,sans-serif;
+font-weight: 100;
+font-size: 30px;
+line-height: 12px;
+letter-spacing: 5px;
+color: white;
+padding-top: 4%;
+text-align: center;
+}
+
+div#bodyt3{
+    width: 60%; 
+    height: 600px;
+    margin-left:20%;
+    MARGIN-TOP: 1%;
+    border: 3px solid white;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+div#bodys{
+    width: 60%; 
+    height: 2200px;
+    margin-left:20%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+div#servicios{
+    width: 60%;
+    height: 100px;
+    background-color:black;
+    margin-left: 20%;
+    border-bottom: 1px solid white
+}
+p#servicios1{
+    font-family: Helvetica,Arial,sans-serif;
+font-weight: 100;
+font-size: 30px;
+line-height: 12px;
+letter-spacing: 5px;
+color: white;
+padding-top: 8%;
+text-align: center;
+}
+div#textos{
+    width: 100%;
+    height: 400px;
+    background-color:black;
+    margin: 10px;
+}
+div#cabeceras{
+    width: 60%;
+    height: 100px;
+    background-color:black;
+    margin-left: 20%;
+}
+
+div#imagens{
+    width: 30%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+div#textos1{
+    width: 70%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+div#textos2{
+    width: 70%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+div#imagens1{
+    width: 30%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+p#cabeceras3{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 5px;
+    color: white;
+    padding-top: 5%;
+    text-align: center; 
+
+}
+
+img#sistemaop{
+    
+        width: 100%;
+        height: 65%;
+        padding-top:12.5%;
+
+    
+}
+
+p#textos3{
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 8%;
+    text-align: left;;
+    margin-left: 8%;
+    margin-top: 3%;
+    padding-right: 5%
+}
+
+.zoom3:hover{
+    transition: transform 0.1s;
+    transform: scale(1.1);
+}
+
+div#bodytar{
+    width:60%;
+    height: 1000px;
+    margin-left: 20%;
+    background-color: black;
+}
+
+div#tarifasno{
+    width:60%;
+    height: 500px;
+    margin-left: 20%;
+    background-color:black;
+    padding-top: 10%
+
+}
+.form-register {
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+  }
